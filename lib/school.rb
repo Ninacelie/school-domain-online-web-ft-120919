@@ -12,6 +12,6 @@ class School
   end
 end
 
-  def grade 
+  def grade
 end
 end
