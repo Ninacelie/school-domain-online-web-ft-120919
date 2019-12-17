@@ -12,5 +12,4 @@ class School
   end
 
   def grade 
-    grade.each
 end
